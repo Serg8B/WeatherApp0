@@ -1,0 +1,21 @@
+
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="need_choose_town">Change town</string>
+    <string name="show_forecast">Show result</string>
+    <string name="menu_add">menu_add</string>
+    <string name="ChangeB">menu_clear</string>
+    <string name="menu_edit">menu_edit</string>
+    <string name="menu_delete">menu_delete</string>
+    <string-array name="towns">
+        <item>Moscow</item>
+        <item>Samara</item>
+        <item>Saint Petersburg</item>
+    </string-array>
+
+    <string-array name="forecast">
+        <item>Partly cloudy, temperature + 15 С, humidity  55 % </item>
+        <item>The cloudless, temperature + 30 С, humidity 50 % </item>
+        <item>Mainly cloudy,  temperature + 13 С, humidity 70 %  </item>
+    </string-array>
+</resources>
